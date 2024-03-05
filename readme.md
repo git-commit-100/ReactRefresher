@@ -20,7 +20,7 @@ To get started with the course materials:
 
 1. Clone this repository to your local machine using the following command:
 
-`https://github.com/git-commit-100/ReactRefresher.git`
+`git clone https://github.com/git-commit-100/ReactRefresher.git`
 
 2. Follow along with the course lessons and exercises.
 
@@ -44,7 +44,7 @@ Replace `<branch-name>` with the name of the section's branch.
 
 ## Contributing
 
-If you have suggestions or improvements for the course materials, feel free to contribute by submitting a pull request. Your contributions are greatly appreciated!
+If you have suggestions or improvements for the source code, feel free to contribute by submitting a pull request. Your contributions are greatly appreciated!
 
 
 
